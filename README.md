@@ -1,4 +1,4 @@
-### Karibu! (Welcome) 👋
+## Karibu! (Welcome)
 
 I code primarily for challenges and learning but often forget to push :(. My latest goal is to utilize github more, and make as many useful
 things as I can on my free time. Soon starting a youtube channel that I will link here.
